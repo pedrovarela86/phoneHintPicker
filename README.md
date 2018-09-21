@@ -7,6 +7,5 @@ You can find the documentation here https://developers.google.com/identity/smart
 
 
 dependencies {
-    // ...
     compile 'com.google.android.gms:play-services-auth:15.0.1'
 }
